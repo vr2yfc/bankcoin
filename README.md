@@ -4,14 +4,14 @@ https://www.bankcoinreserve.io
 
 The Bankcoin Reserve PoW/PoS Cryptocurrency Coin is a derivative of the historical gold price. As well as 9 Patent Protected Monetary Innovations which establish its intrinsic value in the digital economy.
 
-Bankcoin is a digital currency that enables instant payments to anyone, anywhere in the world. Bankcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Bankcoin is the name of open source software which enables the use of this currency.
+Bankcoin Reserve is a digital currency that enables instant payments to anyone, anywhere in the world. Bankcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Bankcoin is the name of open source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of the Bankcoin software, see https://www.bankcoinreserve.io
 
 
 License
 ===========================
-Bankcoin is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
+Bankcoin Reserve is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 
 
 Development process
