@@ -23,12 +23,12 @@ Now days there are thousand of altcoins without any real use and backing. With  
 | Block Explorer | https://explorer.bankcoinreserve.io |
 | Windows Wallet | https://bankcoinreserve.io/wallet |
 | White Paper | https://bankcoinreserve.io/whitepaper |
-| Peers.dat file | https://bankcoinexplorer.com/peers.dat |
+| Peers.dat | https://bankcoinexplorer.com/peers.dat |
 | Blocks | https://bankcoinexplorer.com/blocks.zip|
 
 # Dependencies & Compilation
 
-* Operating System: [Ubutnu 16.04](http://releases.ubuntu.com/16.04/)
+* Operating System: [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
 * RAM: Minumum 2 GB
 * A modern prcoessor with minimum 2 Cores
 
@@ -39,26 +39,26 @@ Install the dependencies in desktop or server:
 ```sh
 $ sudo  apt-get update
 
-#Git
+# Git
 $ sudo  apt-get install git -y
 
-#libssl for cryptography and libevent for Networking
+# libssl for cryptography and libevent for Networking
 $ sudo  apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils -y
 
-#Boost Utility  for threading, Data Structures etc
+# Boost Utility  for threading, Data Structures etc
 $ sudo  apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev -y
 $ sudo  apt-get install libboost-all-dev -y
 
-#BerkleyDB for wallet support
+# BerkleyDB for wallet support
 $ sudo  apt-get install software-properties-common -y
 $ sudo  echo | add-apt-repository ppa:bitcoin/bitcoin
 $ sudo  apt-get update
 $ sudo  apt-get install libdb4.8-dev libdb4.8++-dev -y
 
-#upnp for firewall-jumping support
+# upnp for firewall-jumping support
 $ sudo  apt-get install libminiupnpc-dev -y
 
-#ZMQ
+# ZMQ
 $ sudo  apt-get install libzmq3-dev -y
 
 # QT
