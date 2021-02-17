@@ -1,30 +1,26 @@
-![N|Solid](https://bankcoinreserve.io/wp-content/uploads/2018/03/bankcoin-spin-small-400px.gif)
+![N|Solid](https://www.wyith.edu/logo_bankcoin_256x256.png)
 
 # Introduction
-The Bankcoin Reserve Coin is a high value/low volume cryptocurrency making it very attractive for use by banks, financial institutions and insurance companies. This solves problems associated with moving large asset or commodity value quickly, and at low cost. The Bankcoin Reserve Coin also has the unique ability to mint up to 10% of the principal amount held in its proprietary digital wallet.
+The Bankcoin Reserve (BCR) Coin is a high value/low volume cryptocurrency making it very attractive for use by banks, financial institutions and insurance companies. This solves problems associated with moving large asset or commodity value quickly, and at low cost. The BCR Coin also has the unique ability to mint up to 10% of the principal amount held in its proprietary digital wallet.
 
 # Patents
 
-Now days there are thousand of altcoins without any real use and backing. With  [Gary Mcalister's](https://www.amazon.com/Blockchain-Prophecy-Gary-Gabriel-McAlister/dp/0648173704/ref=sr_1_1?qid=1567079624&refinements=p_27%3AMr+Gary+Gabriel+McAlister&s=books&sr=1-1&text=Mr+Gary+Gabriel+McAlister) vision and innovations Bankcoin Reserve holds eight patents:
+Now days there are thousand of altcoins without any real use and backing. With  [Gary Mcalister's](https://www.amazon.com/Blockchain-Prophecy-Gary-Gabriel-McAlister/dp/0648173704/ref=sr_1_1?qid=1567079624&refinements=p_27%3AMr+Gary+Gabriel+McAlister&s=books&sr=1-1&text=Mr+Gary+Gabriel+McAlister) vision and innovations as well as AAABlockchain Ltd's involvement (a Belize business founded by Nina Taylor with Wyith Community as one of the major shareholders), Bankcoin Reserve (BCR) holds eight Australian patents, see https://www.wyith.edu/bankcoin_patent.htm
 
-* [Patent 1](https://bankcoinreserve.io/savings-and-deposits-innovation) - Savings and Deposits Innovation
-* [Patent 2](https://bankcoinreserve.io/loan-and-finance-innovation) - Loan and Finance Innovation
-* [Patent 3](https://bankcoinreserve.io/new-monetary-system-innovation) - New Monetary System Innovation
-* [Patent 4](https://bankcoinreserve.io/private-placement-high-yield-innovation) - Private Placement / High Yield Innovation
-* [Patent 5](https://bankcoinreserve.io/stock-and-bond-innovation) - Stock and Bond Innovation
-* [Patent 6](https://bankcoinreserve.io/franchise-innovation) - Franchise Innovation
-* [Patent 7](https://bankcoinreserve.io/islamic-banking-innovation) - Islamic Banking Innovation
-* [Patent 8](https://bankcoinreserve.io/foreign-exchange-innovation) - Foreign Exchange Innovation
+* Patent 1 - Savings and Deposits Innovation
+* Patent 2 - Loan and Finance Innovation
+* Patent 3 - New Monetary System Innovation
+* Patent 4 - Private Placement / High Yield Innovation
+* Patent 5 - Stock and Bond Innovation
+* Patent 6 - Franchise Innovation
+* Patent 7 - Islamic Banking Innovation
+* Patent 8 - Foreign Exchange Innovation
 # Important Links
 
 | Utility | Link |
 | ------ | ------ |
-| Website | https://bankcoinreserve.io |
-| Block Explorer | https://explorer.bankcoinreserve.io |
-| Windows Wallet | https://bankcoinreserve.io/wallet |
-| White Paper | https://bankcoinreserve.io/whitepaper |
-| Peers.dat | https://bankcoinexplorer.com/peers.dat |
-| Blocks | https://bankcoinexplorer.com/blocks.zip|
+| Website | https://www.wyith.edu/bankcoin |
+| Block Explorer | coming |
 
 # Dependencies & Compilation
 
